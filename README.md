@@ -1,17 +1,15 @@
 # 💫 About Me:
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkYzRoMHJ4amZvbWliZmtqMmRmM2s5dGY3N3BvNDFiNThpeTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
+     height="150" align="left" style="margin-right: 20px; border-radius: 10px;" />
 
-<div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkYzRoMHJ4amZvbWliZmtqMmRmM2s5dGY3N3BvNDFiNThpeTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
-       height="150" 
-       align="left" 
-       style="border-radius: 10px;" />
-  &nbsp;&nbsp;&nbsp;
-  <p>
-    Hello! I'm a Computer Science student in my 6th semester, passionate about backend development and artificial intelligence.
-    I love diving deep into how things work behind the scenes and enjoy exploring new technologies to sharpen my skills and broaden my perspective.
-  </p>
-</div>
+<span>
+  Hello! I'm a Computer Science student in my 6th semester, passionate about backend development and artificial intelligence.<br>
+  I love diving deep into how things work behind the scenes and enjoy exploring new technologies to sharpen my skills and broaden my perspective.
+</span>
+
+<br clear="left"/>
+
 
 <br clear="left"/>
 
