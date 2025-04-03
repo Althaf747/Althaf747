@@ -1,19 +1,6 @@
 # 💫 About Me:
 
-<table>
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkYzRoMHJ4amZvbWliZmtqMmRmM2s5dGY3N3BvNDFiNThpeTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" height="150" style="border-radius: 10px;" />
-    </td>
-    <td>
-      <p>
-        Hello! I'm a Computer Science student in my 6th semester, passionate about backend development and artificial intelligence.<br>
-        I love diving deep into how things work behind the scenes and enjoy exploring new technologies to sharpen my skills and broaden my perspective.
-      </p>
-    </td>
-  </tr>
-</table>
-
+Hello! I'm a Computer Science student with a strong interest in backend development and artificial intelligence. I love diving deep into how things work behind the scenes and constantly enjoy exploring new technologies and ideas to sharpen my skills and broaden my perspective.
 
 ## 🚀 My Current Goals :
 Expand my skills in software development and machine learning.
