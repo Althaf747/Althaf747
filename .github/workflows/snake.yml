@@ -39,4 +39,8 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
+<<<<<<< HEAD
           commit_message: "Update snake animation [skip ci]"
+=======
+          commit_message: "Update snake animation [skip ci]"
+>>>>>>> 426b58b3d0f88a61f0ad84470eb07e3235f6abbb
