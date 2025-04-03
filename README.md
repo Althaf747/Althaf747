@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkYzRoMHJ4amZvbWliZmtqMmRmM2s5dGY3N3BvNDFiNThpeTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 Hello! I'm a Computer Science student with a strong interest in backend development and artificial intelligence. I love diving deep into how things work behind the scenes and constantly enjoy exploring new technologies and ideas to sharpen my skills and broaden my perspective.
 
 ## 🚀 My Current Goals :
